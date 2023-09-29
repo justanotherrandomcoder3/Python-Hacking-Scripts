@@ -5,7 +5,7 @@
 import requests as r
 import os
 import socket as s
-
+import subprocess
 
 
 
@@ -20,5 +20,4 @@ showiprange = 1
 while showiprange < 9000:
  print(ip)
  print(ip)
-creepy = ( I have your ip address, this it + ip  )
-s.send(creepy, C//FILEPATH//USER//FILE//FILETYPE) 
+s.send( os.C//FILEPATH//USER//FILE//FILETYPE) 
