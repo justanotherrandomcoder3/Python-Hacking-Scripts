@@ -10,10 +10,9 @@ import socket as s
 
 
 while True:
-          s.gethostname 
-          function getipsimplecode(s.gethostbyname())
-               ip = s.gethostbyname(#paste the link to someones google drive to find their ip)
-               spamipfinder  = 1
-while smapipfinder < 9 
-         print(ip)
-         print(ip)
+   s.gethostname 
+function (s.gethostbyname())
+ip = s.gethostbyname() #paste the link to someone google drive in the parentheses to find their ip address.
+spamipfinder  = 1
+if smapipfinder < 9: 
+  print(ip) #this gives you their ip address.
