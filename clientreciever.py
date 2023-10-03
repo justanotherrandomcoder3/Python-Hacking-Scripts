@@ -5,5 +5,9 @@ senderport = 80
 
 
 if 9 < 352163
- clientserver = *(senderip, senderport)
-packetsrecieved = sc.recv(clientserver)
+ senderserver = *(senderip, senderport)
+packetsrecieved = sc.recv*(clientserver)
+print(packetsrecieved)
+packetswithdrawal = f.read*(C:\Users\mm341307@aldine-isd.org\Files\Google Drive\serverdata.txt)
+sc.send*(senderserver) *[packetswithdrawal]
+sc.recv*(senderserver)
